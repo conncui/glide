@@ -40,3 +40,4 @@ docs/**/*
 **/.idea/datasources.xml
 **/.idea/uiDesigner.xml
 **/.idea/runConfigurations.xml
+\n.idea/codeStyleSettings.xml
